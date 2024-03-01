@@ -1,0 +1,25 @@
+---
+title: "About Me"
+---
+
+![David James Dimalanta Profile Picture](/0503.jpeg)
+
+Hey! my name is David James, and I am a 1st year student at the [Faculty of Information](https://ischool.utoronto.ca/) at the University of Toronto, studying Human-Centered Design. What sets me apart is my dedication to understanding and addressing user needs, a skill sharpened through my studies and hands-on project experiences. I bring a unique blend of creative design thinking and technical proficiency to the table.\
+
+I began my coding journey at the start of 2023 as a New Years resolution to learn a new skill. Today, I am fortunate to be able to work with a [student-led non-profit](https://globalspark.world/), and at a [home health & hospice solutions provider](https://empirehsi.com/). Outside of work, I’m an avid reader and enjoy exploring the outdoors, which helps me stay creative and inspired.\
+\
+Here are some technologies I work with:
+
+-   Javascript (ES6+)
+
+-   React
+
+-   Next.js
+
+-   TailwindCSS
+
+-   Node.js
+
+-   MongoDB
+
+-   Wordpress, Wix, Squarespace

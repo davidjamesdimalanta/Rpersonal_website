@@ -1,0 +1,23 @@
+project:
+  type: website 
+  output-dir: docs
+
+website:
+  title: "David James Dimalanta"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: CV.pdf
+        text: CV
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
